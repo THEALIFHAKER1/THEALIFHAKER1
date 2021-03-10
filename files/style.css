@@ -163,7 +163,7 @@ section#dashboard div#table div.column {
     width: 200px;
     height: 200px;
     margin: 9px;
-    background: #f9f9f9;
+    background: #000000;
     overflow: hidden;
     align-items: center;
 }
