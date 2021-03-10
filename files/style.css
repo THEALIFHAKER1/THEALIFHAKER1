@@ -187,5 +187,7 @@ body {
 
 .text {
 	color: red;
-	box-shadow: #000000;
+	height:35px;
+	background_color: #000000;
+	border_radius:60px;
 }
