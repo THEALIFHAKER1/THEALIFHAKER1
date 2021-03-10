@@ -68,6 +68,7 @@ section#home img.logo {
     height: 200px;
     margin-top: 20px;
     border-radius:50%;
+    border-color:red 1px;
 }
 
 section#home .dz-preview .dz-details {
@@ -179,7 +180,6 @@ section#dashboard div#table div.column a img {
 }
 
 body {
- background-image: url("https://fsb.zobj.net/crop.php?r=y5-SP-QOa5Vp1FtTIfkUuXzFV9VHZU0EusDmSxueKFczlwoAi91IPe7KENSW5u1Y-itDUUbFcDsI3ujBCKA2da80lAkKPZrzkHJReZZB9voYXeSCvSQtj01RNLG2GpXJSUDnwA7-bWR-2fPK");
  background-color: #000000;
  background-repeat: no-repeat;
  background-size: cover;
@@ -187,7 +187,4 @@ body {
 
 .text {
 	color: red;
-	height:35px;
-	background_color: #000000;
-	border_radius:60px;
 }
