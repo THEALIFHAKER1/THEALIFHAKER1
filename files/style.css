@@ -187,4 +187,6 @@ body {
 
 .text {
 	color: red;
+	border: 1px solid #000000;
+	border-color: #000000;
 }
