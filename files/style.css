@@ -67,6 +67,7 @@ section#home h3#links span {
 section#home img.logo {
     height: 200px;
     margin-top: 20px;
+    border-radius:50%;
 }
 
 section#home .dz-preview .dz-details {
